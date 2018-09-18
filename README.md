@@ -1,5 +1,5 @@
 # Equation_Solver
-The program runs from the command line and the input equation will be passed in as command line argument. Works with integer numbers, a single variable (X), brackets and the following arithmetic operators: + - * /
+The program runs from the command line and the input equation will be passed in as command line argument. Works with integer numbers, a single variable (X), brackets and the following arithmetic operators: + - * / %
 
 
 ### How to run
