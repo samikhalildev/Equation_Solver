@@ -22,4 +22,5 @@ The purpose of this assignment is to demonstrate competence in the following ski
 - Program design
 - Array and string manipulation
 - Command line arguments
-- Creating Object Oriented methods in C#
+- Creating Object Oriented methods in C# 
+gittest
