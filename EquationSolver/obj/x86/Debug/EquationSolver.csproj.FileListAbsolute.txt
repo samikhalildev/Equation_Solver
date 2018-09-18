@@ -1,0 +1,10 @@
+/Users/samikhalil/Projects/EquationSolver/EquationSolver/bin/Debug/EquationSolver.exe
+/Users/samikhalil/Projects/EquationSolver/EquationSolver/bin/Debug/EquationSolver.pdb
+/Users/samikhalil/Projects/EquationSolver/EquationSolver/obj/x86/Debug/EquationSolver.csproj.CoreCompileInputs.cache
+/Users/samikhalil/Projects/EquationSolver/EquationSolver/obj/x86/Debug/EquationSolver.exe
+/Users/samikhalil/Projects/EquationSolver/EquationSolver/obj/x86/Debug/EquationSolver.pdb
+/Users/samikhalil/Desktop/EquationSolver/EquationSolver/bin/Debug/EquationSolver.exe
+/Users/samikhalil/Desktop/EquationSolver/EquationSolver/bin/Debug/EquationSolver.pdb
+/Users/samikhalil/Desktop/EquationSolver/EquationSolver/obj/x86/Debug/EquationSolver.csproj.CoreCompileInputs.cache
+/Users/samikhalil/Desktop/EquationSolver/EquationSolver/obj/x86/Debug/EquationSolver.exe
+/Users/samikhalil/Desktop/EquationSolver/EquationSolver/obj/x86/Debug/EquationSolver.pdb
