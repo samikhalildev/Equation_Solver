@@ -8,7 +8,7 @@ The program runs from the command line and the input equation will be passed in 
 3. Run execitable file
 	- ```EquationSolver.exe <equation>```
 
-Note: Spaces represent splitters between tokens. E.g.
+Note: Spaces represent splitters between tokens. E.g:
 - ```12 = 6X```
 - ```( X - 2 ) = 0```
 - ```X = -3 + 4 / 6```
